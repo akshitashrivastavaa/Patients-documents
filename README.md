@@ -1,7 +1,7 @@
 # Patient Document Portal
 
 ## Overview
-A simple full-stack app to upload, view, download, and delete medical PDFs.
+A full-stack app to upload, view, download, and delete medical PDFs.
 
 ## Run Backend
 ## Run frontend
